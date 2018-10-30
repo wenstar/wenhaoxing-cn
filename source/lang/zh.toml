@@ -3,7 +3,7 @@
 home = "文章"
 archive = "归档"
 about = "关于"
-source = "代码"
+source = "GitHub"
 
 # about post
 [post]

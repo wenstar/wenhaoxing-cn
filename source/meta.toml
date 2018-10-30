@@ -1,28 +1,28 @@
 [meta]
 # site title, show in <title>
-title = "PuGo"
+title = "WenHaoxing"
 
 # subtitle, words after title, in description
-subtitle = "Just For Writing"
+subtitle = "新站开启🎉，我要坚持写博客！但是找不到前网站的备份了😢"
 
 # print in html <meta>
-keyword = "pugo,golang,static,site,generator"
+keyword = "温皓星,个人网站,技术,生活,博客,blog"
 
 # print in html <meta>
-desc = "PuGo is a Simple Static Site Generator"
+desc = "这是温皓星的个人技术&生活博客"
 
 # build links for feed, sitemap
-domain = "localhost"
+domain = "wenhaoxing.cn"
 
 # root path for site# if empty, build as http://{domain}/
-root = "http://localhost:9899/"
+root = "http://wenhaoxing.cn/"
 
 # cover page for homepage
 cover = "@media/cover.jpg"
 
 # global language,
 # its used in global posts and themes, unless pages set lang
-lang = "en"
+lang = "zh"
 
 
 [[nav]]
@@ -46,18 +46,18 @@ i18n = "about"
 hover = "about"
 
 [[nav]]
-link = "http://pugo.io"
+link = "https://github.com/wenstar"
 title = "Source"
 i18n = "source"
 # browser open in new tab
 blank = true
 
 [[author]]
-name = "pugo"
-email = ""
-url = "http://pugo.io"
+name = "温皓星"
+email = "wenhaoxing@mail.nankai.edu.cn"
+url = "http://wenhaoxing.cn"
 avatar = "@media/author.png"
-bio = "the robot of pugo, who generates all default contents."
+bio = "The owner and writer of this blog."
 
 # comment settings
 # please only set one value
