@@ -7,7 +7,6 @@ update_date = "2018-10-30 17:08:54"
 author = "皓星"
 hover = "about"
 template = "page.html"
-lang = ""
 sort = 0
 draft = false
 node = false
@@ -25,5 +24,5 @@ json = ""
 关注神经网络相关的新消息，想要搞一些自己的事情。
 ##联系我
 - [GitHub](https://github.com/wenstar)
-- [Email: wenhaoxing@mail.nankai.edu.cn](wenhaoxing@mail.nankai.edu.cn)
+- [Email: wenhaoxing@mail.nankai.edu.cn](mailto:wenhaoxing@mail.nankai.edu.cn)
 - WeChat: wenhaoxing1994 (请说明来意)
