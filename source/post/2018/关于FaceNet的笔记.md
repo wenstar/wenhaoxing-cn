@@ -1,7 +1,7 @@
 ```toml
-title = "关于FaceNet笔记"
-slug = "The-first-post-of-this-blog"
-desc = "关于FaceNet笔记"
+title = "FaceNet笔记"
+slug = "FaceNet-notes"
+desc = "FaceNet笔记"
 date = "2018-11-27 21:35:35"
 update_date = "2018-11-27 21:35:35"
 author = "皓星"
