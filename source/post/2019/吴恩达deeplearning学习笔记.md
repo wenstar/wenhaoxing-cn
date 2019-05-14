@@ -1,7 +1,7 @@
 ```toml
 title = "吴恩达Deeplearning学习笔记 1.1 and 1.2"
 slug = "04-24-15-13-05"
-desc = "统计学笔记"
+desc = "吴恩达Deeplearning学习笔记 1.1 and 1.2"
 date = "2019-04-24 15:13:05"
 update_date = "2019-04-24 15:13:05"
 author = "皓星"
@@ -10,7 +10,7 @@ tags = ["学习"]
 
 # Neural Network and Deep Learning
 来自[deeplearning.ai的课程](https://www.deeplearning.ai/deep-learning-specialization/)，共五个部分。其中第一部分分为五周的课程。
-这里是第一个部分第一周和第二周的学习笔记。Neural Network and Deep Learning，主要还是入门和概念介绍为主，比较简单。
+这里是第一个部分Neural Network and Deep Learning第一周深度学习概论和第二周神经网络基础的学习笔记。Neural Network and Deep Learning，主要还是入门和概念介绍为主，比较简单。
 
 最近找实习的过程中，觉得自己还是需要系统的学习更多关于深度学习的内容，找到这个课程，希望能有所帮助。
 
